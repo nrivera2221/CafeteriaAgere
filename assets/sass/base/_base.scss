@@ -1,0 +1,10 @@
+@use "../abstracts/variables";
+
+header,
+footer{
+    padding-left: 10rem;
+    padding: 1rem;
+}
+body{
+    font-family: $fontPrimary;
+}   
